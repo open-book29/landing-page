@@ -4,6 +4,10 @@
     font-family: "gilroy";
     box-sizing: border-box;
 }
+@font-face {
+    font-family: kajiro;
+    src: url('/font/Kajiro\ Bold.ttf');
+}
 
 html,
 body {
